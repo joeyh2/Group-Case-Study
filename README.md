@@ -17,3 +17,6 @@ Strengths: consumer data security, seamless sync across devices
 ### What is the prognosis for this company? Where do they expect to be in the future? ###
 By making the easiest method of payment for an iphone owner to be through their own built-in iphone software, they can establish a strong foothold over a new market. This gives them a considerable edge over all third party apps which offer similar ease of use payment options.
 * Joseph Hagemann, Preston Kirschner, Ariel Meir, Dasiel H
+**Appendix:
+
+https://stratechery.com 
