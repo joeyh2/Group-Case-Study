@@ -1,6 +1,6 @@
 # Group-Case-Study
 Group Case Study performed in class 12/4
-	![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7GBiPGO-t6_C_WxiFHeekqfDGUh9aGc0lA&usqp=CAU )
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7GBiPGO-t6_C_WxiFHeekqfDGUh9aGc0lA&usqp=CAU )
 ## AN Analysis of Apple Pay ##
 **Q & A**
 ### What is the background of your company? What do they do? Who are their competitors? 
